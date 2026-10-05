@@ -135,9 +135,11 @@ using (MemoryStream ms = new MemoryStream())
 
 ```
 
-### Evidencia de Inserción de Registros
+<img width="781" height="675" alt="image" src="https://github.com/user-attachments/assets/c8469c19-3c2a-405c-9fcb-b1df9ed258c2" />
+<img width="777" height="668" alt="image" src="https://github.com/user-attachments/assets/0202aabc-e234-43b1-bf1f-38f550f5a756" />
 
-*(Inserta aquí la captura o URL de la imagen de evidencia)*
+
+
 
 ---
 
@@ -159,7 +161,9 @@ using (MemoryStream ms = new MemoryStream(imgData))
 
 ### Evidencia de Modificación de Registros
 
-*(Inserta aquí la captura o URL de la imagen de evidencia)*
+<img width="767" height="673" alt="image" src="https://github.com/user-attachments/assets/e3ce1cf6-22ac-42db-a2f7-9d845f00a9de" />
+<img width="776" height="680" alt="image" src="https://github.com/user-attachments/assets/ad1fb529-7aac-45da-9d4d-bf2f71ffbdfe" />
+
 
 ---
 
@@ -170,8 +174,12 @@ using (MemoryStream ms = new MemoryStream(imgData))
 El usuario selecciona el producto a remover dentro del `DataGridView` y presiona el botón de eliminación. La aplicación solicita confirmación mediante un `MessageBox` y, al ser aceptada, ejecuta la instrucción `DELETE FROM productos WHERE Id = @Id`, actualizando inmediatamente la vista de la rejilla de datos.
 
 ### Evidencia de Eliminación de Registros
+<img width="767" height="666" alt="image" src="https://github.com/user-attachments/assets/5122598c-0c9a-435c-91ad-104a5b4f0ff9" />
+<img width="758" height="663" alt="image" src="https://github.com/user-attachments/assets/276b2989-9ee7-4c26-9d91-0b877df86f0b" />
+<img width="777" height="680" alt="image" src="https://github.com/user-attachments/assets/2fea3ba6-cc62-4453-ad63-c061e94efbc7" />
 
-*(Inserta aquí la captura o URL de la imagen de evidencia)*
+
+
 
 ```
 
